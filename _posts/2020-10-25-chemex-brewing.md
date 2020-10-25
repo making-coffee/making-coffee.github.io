@@ -21,11 +21,6 @@ What are the brewing properties?
 
 There are basically three types of brewing tools. It is automatic, with glass handle and wooden one. Chemexler with glass holder consists of 3 Cup (1 Cup 150 ml), 6 Cup, 8 Cup and 10 Cup models. Chemex with wooden handles is available in 3 Cup, 6 Cup, 8 Cup and 13 Cup versions. These two types of brewing are only different in exterior designs. The leather and wooden parts of Chemex with wooden handles are suitable for washing. The technology it contains does not contain chemical residues and you can get the same taste in every coffee you brew. You can brew and heat the glass or wooden model on the stove. Chemex filter papers are 20% to 30% lighter. It does not let the residues and residues you want in your coffee into your coffee. There are four special types of filter paper;
 
- Pre-folded white round filter fits all models except 3 cups.
- Pre-folded white square filter will fit all models except 3 cups
- Pre-folded straw square filter happens to all models except 3 cup
- Unfolded round white filter Suitable for all models except 3 cups
-
 How to Brew Coffee with Chemex?
 
 As a first step, heat five hundred and ten grams of water. If you want to heat the glass container and wet the filter, start by heating more water.
