@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "Welcome to Coffee World!"
+author: "Making Cofee"
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
