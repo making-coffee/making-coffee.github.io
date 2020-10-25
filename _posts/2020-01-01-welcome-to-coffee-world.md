@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to Coffee World!"
 author: "Making Cofee"
 categories: documentation
-tags: [documentation,sample]
+tags: [brewingmethod]
 image: coffee-world.jpg
 ---
 
