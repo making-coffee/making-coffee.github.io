@@ -14,17 +14,6 @@ When brewing coffee with Chemex, the amount is one teaspoon of ground coffee per
 It is very important to achieve the ideal ratio while brewing your coffee. You should set the ratio of 1:17, that is, seventeen grams of water per unit of coffee. You can use electronic scales as it will be difficult to adjust. For thirty grams of ground coffee, you should use five hundred and ten grams of water. This ratio is for balancing. You can increase or decrease these rates according to your taste and taste.
 
 Historical Development of Chemex Brewing
-<<<<<<< HEAD
-
-Chemex brew is discovered in 1941 by German Peter Schlumbohm. Peter Schlumbohm is an inventor who makes inventions to make human life easier. He has more than three hundred patents of his own. Sshlumbohm is also a chemist. When he invented Chemex, he wanted it to be not only a coffee brewing apparatus but also a coffee serving apparatus. Thanks to his chemist identity, he had a good command of the mixtures and the necessary parameters. Therefore, he invented double-layer Chemex coffee filters himself. The proof of the success of this product is that it is still exhibited by the Brooklyn Museum Corning Museum of Glass and MOMA (Museum Of Modern Art). In addition, the best design award was given by MOMA in 1943.
-
-What are the brewing properties?
-
-There are basically three types of brewing tools. It is automatic, with glass handle and wooden one. Chemexler with glass holder consists of 3 Cup (1 Cup 150 ml), 6 Cup, 8 Cup and 10 Cup models. Chemex with wooden handles is available in 3 Cup, 6 Cup, 8 Cup and 13 Cup versions. These two types of brewing are only different in exterior designs. The leather and wooden parts of Chemex with wooden handles are suitable for washing. The technology it contains does not contain chemical residues and you can get the same taste in every coffee you brew. You can brew and heat the glass or wooden model on the stove. Chemex filter papers are 20% to 30% lighter. It does not let the residues and residues you want in your coffee into your coffee. There are four special types of filter paper;
-
-How to Brew Coffee with Chemex?
-
-=======
 Chemex brew is discovered in 1941 by German Peter Schlumbohm. Peter Schlumbohm is an inventor who makes inventions to make human life easier. He has more than three hundred patents of his own. Sshlumbohm is also a chemist. When he invented Chemex, he wanted it to be not only a coffee brewing apparatus but also a coffee serving apparatus. Thanks to his chemist identity, he had a good command of the mixtures and the necessary parameters. Therefore, he invented double-layer Chemex coffee filters himself. The proof of the success of this product is that it is still exhibited by the Brooklyn Museum Corning Museum of Glass and MOMA (Museum Of Modern Art). In addition, the best design award was given by MOMA in 1943.
 
 What are the brewing properties?
@@ -36,7 +25,6 @@ Pre-folded straw square filter happens to all models except 3 cup
 Unfolded round white filter Suitable for all models except 3 cups
 
 How to Brew Coffee with Chemex?
->>>>>>> 0eb315f... second post
 As a first step, heat five hundred and ten grams of water. If you want to heat the glass container and wet the filter, start by heating more water.
 Have thirty grams of ground coffee ready. The ground thickness of this coffee may be a little coarser than Drip Over coffee and a little thinner than the French Press.
 Place your filter paper in Chemex. Let the three-part side come to the mouth. After placing the filter paper, wet it with hot water. At the same time, heat the jug in which you will put your coffee and pour the water in it.
