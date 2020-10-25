@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Coffee World!"
 author: "Making Cofee"
-categories: [brewingmethods,coffeemakers]
+categories: brewingmethods
 tags: [brewingmethods]
 image: coffee-world.jpg
 ---
